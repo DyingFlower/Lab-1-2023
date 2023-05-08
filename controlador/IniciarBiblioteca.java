@@ -3,7 +3,7 @@ package controlador;
 public class IniciarBiblioteca {
 
 	public static void main(String[] args) {
-		// não sei por que esta dando errado para o Aluno, dá 0.
+		// não sei por que esta dando errado para o Aluno, dá 0 o custo de Tp, a aplicação de descontos não funcionou.
 		
 		//Clientes da Biblioteca TecProg
 		Cliente aluno= new Aluno(30305, "Joao");
